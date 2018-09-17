@@ -21,7 +21,7 @@ Cyber-security threats affect all businesses and organisations irrespective of t
 
 Threats can arise from business operations ranging from storing or processing sensitive information to your supply chain and anything in between.
 
-TrustedIA has developed an approach comprising four areas, Prepare, Protect, Respond and Learn:
+Commensurate has developed an approach comprising four areas, Prepare, Protect, Respond and Learn:
 
 ### Prepare
 It is important to ascertain the maturity of your organisation to address the ever changing threats. Effective understanding of the evolving threat landscape combined with your organisations cyber-security posture enables you to intelligently invest in resources.
@@ -34,7 +34,7 @@ Defending your business from the wide range of threats is vital to reduce your a
 The legal and regulatory landscape is fundamentally changing by placing a range of obligations in the event of a cyber incident. Notification obligations place a specific time-frame where you must submit a statement that a security incident has occurred. Our knowledge, experience, and business driven approach can enable your business to achieve these requirements with ease.
 
 ### Learn
-An often overlooked, but vital, stage when responding to a security event is learning from your own and interested party’s performance. Irrespective of how mature your business is, there are always lessons that can be gleaned from the experience. TrustedIA has handled a wide range of cyber security related incidents and we run a formal review following each and every one of them. The threat landscape is constantly evolving and businesses need to adapt ensuring measured an consistent responses, every time.
+An often overlooked, but vital, stage when responding to a security event is learning from your own and interested party’s performance. Irrespective of how mature your business is, there are always lessons that can be gleaned from the experience. Commensurate has handled a wide range of cyber security related incidents and we run a formal review following each and every one of them. The threat landscape is constantly evolving and businesses need to adapt ensuring measured an consistent responses, every time.
 
 ### Contact details
 
